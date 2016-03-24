@@ -1,6 +1,6 @@
 {
   "name": "enlarge",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Dead simple string padding module with a funny name.",
   "main": "index.js",
   "scripts": {
