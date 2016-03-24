@@ -1,0 +1,22 @@
+{
+  "name": "enlarge",
+  "version": "0.0.1",
+  "description": "Dead simple string padding module with a funny name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "string",
+    "padding",
+    "pad",
+    "indent",
+    "format",
+    "str"
+  ],
+  "author": "Alessio \"Bl@ster\" Biancalana",
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "*"
+  }
+}
